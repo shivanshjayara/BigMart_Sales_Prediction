@@ -1,0 +1,4 @@
+2021-09-04	01:49:16		Starting Outlier removal
+2021-09-04	01:49:16		Strating Sepaaration of traning data
+2021-09-04	01:49:16		Outlier removal completed
+2021-09-04	01:49:16		Saved the data set to local system

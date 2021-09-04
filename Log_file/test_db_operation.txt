@@ -1,0 +1,4 @@
+2021-09-04	01:49:15		Getting Test data from MongoDB Server
+2021-09-04	01:49:16		Test data saved to csv file
+2021-09-04	01:49:16		After inserting train and test data into new csv from database, 
+                                                                                       previous transformed folder has been deleted

@@ -1,0 +1,98 @@
+2021-09-04	01:49:13		Filling missing value on combined data set: Started
+2021-09-04	01:49:13		Filling the missing values in the training data
+2021-09-04	01:49:13		Defining a function that will combining both train data and test data together 
+                                                                                                   into a single dataframe
+2021-09-04	01:49:13		Creating another feature for train and test named "source" which will store the 
+                                                                                                values as "train" and "test" 
+2021-09-04	01:49:14		Combining train and test data set Successful
+2021-09-04	01:49:14		Data set Combine Successful
+2021-09-04	01:49:14		Numerical features having missing values are: ['Item_Weight', 'Item_Outlet_Sales']
+2021-09-04	01:49:14		Categorical features having missing values are: ['Item_Weight', 'Item_Outlet_Sales']
+2021-09-04	01:49:14		Filling numerical missing values in the training data: Started
+2021-09-04	01:49:14		Creating a pivot table displaying the mean weight of every respective items
+2021-09-04	01:49:14		Missing values in Item_weight column before filling:2439
+2021-09-04	01:49:14		Missing values in Item_Weight column is filled 
+2021-09-04	01:49:14		Missing values in Item_weight column after filling: 0
+2021-09-04	01:49:14		Missing Value Imputation Completed For Numerical Features.
+2021-09-04	01:49:14		Filling categorical missing values in the training data: Started
+2021-09-04	01:49:14		Missing values in Outlet_Size column before filling:4016
+2021-09-04	01:49:14		Missing values in Outlet_Size column afetr filling na is
+                                                                                           0
+2021-09-04	01:49:14		Missing Value Imputation Completed For Categorical Features.
+2021-09-04	01:49:14		Filling missing value on combined data set: Completed
+2021-09-04	01:49:14		Creating a new column "source" in train dataset to give that data set an identity
+2021-09-04	01:49:14		Traning data Separated: Completed
+2021-09-04	01:49:14		Define a function that will separte the test data from the combine dataset
+2021-09-04	01:49:14		Filling missing value on combined data set: Started
+2021-09-04	01:49:14		Filling the missing values in the training data
+2021-09-04	01:49:14		Defining a function that will combining both train data and test data together 
+                                                                                                   into a single dataframe
+2021-09-04	01:49:14		Creating another feature for train and test named "source" which will store the 
+                                                                                                values as "train" and "test" 
+2021-09-04	01:49:14		Combining train and test data set Successful
+2021-09-04	01:49:14		Data set Combine Successful
+2021-09-04	01:49:14		Numerical features having missing values are: ['Item_Weight', 'Item_Outlet_Sales']
+2021-09-04	01:49:14		Categorical features having missing values are: ['Item_Weight', 'Item_Outlet_Sales']
+2021-09-04	01:49:14		Filling numerical missing values in the training data: Started
+2021-09-04	01:49:14		Creating a pivot table displaying the mean weight of every respective items
+2021-09-04	01:49:14		Missing values in Item_weight column before filling:2439
+2021-09-04	01:49:14		Missing values in Item_Weight column is filled 
+2021-09-04	01:49:14		Missing values in Item_weight column after filling: 0
+2021-09-04	01:49:14		Missing Value Imputation Completed For Numerical Features.
+2021-09-04	01:49:14		Filling categorical missing values in the training data: Started
+2021-09-04	01:49:14		Missing values in Outlet_Size column before filling:4016
+2021-09-04	01:49:14		Missing values in Outlet_Size column afetr filling na is
+                                                                                           0
+2021-09-04	01:49:14		Missing Value Imputation Completed For Categorical Features.
+2021-09-04	01:49:14		Filling missing value on combined data set: Completed
+2021-09-04	01:49:14		Creating a new column "source" in test dataset to give that data set an identity
+2021-09-04	01:49:14		Test data Separated: Completed
+2021-09-04	01:49:14		Filling missing value on combined data set: Started
+2021-09-04	01:49:14		Filling the missing values in the training data
+2021-09-04	01:49:14		Defining a function that will combining both train data and test data together 
+                                                                                                   into a single dataframe
+2021-09-04	01:49:14		Creating another feature for train and test named "source" which will store the 
+                                                                                                values as "train" and "test" 
+2021-09-04	01:49:14		Combining train and test data set Successful
+2021-09-04	01:49:14		Data set Combine Successful
+2021-09-04	01:49:14		Numerical features having missing values are: ['Item_Weight', 'Item_Outlet_Sales']
+2021-09-04	01:49:14		Categorical features having missing values are: ['Item_Weight', 'Item_Outlet_Sales']
+2021-09-04	01:49:14		Filling numerical missing values in the training data: Started
+2021-09-04	01:49:14		Creating a pivot table displaying the mean weight of every respective items
+2021-09-04	01:49:14		Missing values in Item_weight column before filling:2439
+2021-09-04	01:49:14		Missing values in Item_Weight column is filled 
+2021-09-04	01:49:14		Missing values in Item_weight column after filling: 0
+2021-09-04	01:49:14		Missing Value Imputation Completed For Numerical Features.
+2021-09-04	01:49:14		Filling categorical missing values in the training data: Started
+2021-09-04	01:49:14		Missing values in Outlet_Size column before filling:4016
+2021-09-04	01:49:14		Missing values in Outlet_Size column afetr filling na is
+                                                                                           0
+2021-09-04	01:49:14		Missing Value Imputation Completed For Categorical Features.
+2021-09-04	01:49:14		Filling missing value on combined data set: Completed
+2021-09-04	01:49:14		Creating a new column "source" in train dataset to give that data set an identity
+2021-09-04	01:49:14		Traning data Separated: Completed
+2021-09-04	01:49:15		Define a function that will separte the test data from the combine dataset
+2021-09-04	01:49:15		Filling missing value on combined data set: Started
+2021-09-04	01:49:15		Filling the missing values in the training data
+2021-09-04	01:49:15		Defining a function that will combining both train data and test data together 
+                                                                                                   into a single dataframe
+2021-09-04	01:49:15		Creating another feature for train and test named "source" which will store the 
+                                                                                                values as "train" and "test" 
+2021-09-04	01:49:15		Combining train and test data set Successful
+2021-09-04	01:49:15		Data set Combine Successful
+2021-09-04	01:49:15		Numerical features having missing values are: ['Item_Weight', 'Item_Outlet_Sales']
+2021-09-04	01:49:15		Categorical features having missing values are: ['Item_Weight', 'Item_Outlet_Sales']
+2021-09-04	01:49:15		Filling numerical missing values in the training data: Started
+2021-09-04	01:49:15		Creating a pivot table displaying the mean weight of every respective items
+2021-09-04	01:49:15		Missing values in Item_weight column before filling:2439
+2021-09-04	01:49:15		Missing values in Item_Weight column is filled 
+2021-09-04	01:49:15		Missing values in Item_weight column after filling: 0
+2021-09-04	01:49:15		Missing Value Imputation Completed For Numerical Features.
+2021-09-04	01:49:15		Filling categorical missing values in the training data: Started
+2021-09-04	01:49:15		Missing values in Outlet_Size column before filling:4016
+2021-09-04	01:49:15		Missing values in Outlet_Size column afetr filling na is
+                                                                                           0
+2021-09-04	01:49:15		Missing Value Imputation Completed For Categorical Features.
+2021-09-04	01:49:15		Filling missing value on combined data set: Completed
+2021-09-04	01:49:15		Creating a new column "source" in test dataset to give that data set an identity
+2021-09-04	01:49:15		Test data Separated: Completed

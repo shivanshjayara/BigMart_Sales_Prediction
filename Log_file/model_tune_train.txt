@@ -1,0 +1,109 @@
+2021-09-04	01:49:16		Start Running algo_run methode
+2021-09-04	01:49:16		Starting Linear Regression Tuning
+2021-09-04	01:49:16		Starting Tuning Linear Regression Model
+2021-09-04	01:49:16		Start Tuning on Randomized Search CV...
+2021-09-04	01:49:20		Tuning on Randomized Search CV Completed
+2021-09-04	01:49:20		Best Parameters for Linear Regression Model Obtain from Search:- 
+
+                                                positive: True 
+ 
+                                                normalize: False 
+
+                                                fit_interecpt: True 
+
+                                                copy_X:  True 
+
+2021-09-04	01:49:20		Starting Training on Best Parameters of Linear Regression Model
+2021-09-04	01:49:20		Training on Best Parameters of Linear Regression Model Completed
+2021-09-04	01:49:20		R2 Score on Training Data: 0.5623818860237866
+2021-09-04	01:49:20		Adjusted R2 Score on Training Data: 0.5610001158967731
+2021-09-04	01:49:20		Adjusted R2 Score on Testing Data: 0.5479944411807329
+2021-09-04	01:49:20		R2 Score on Testing Data: 0.5251190752117685
+2021-09-04	01:49:20		Mean Absolute Error(mae) on Testing Data: 897.9954450582129
+2021-09-04	01:49:20		Root Mean Squared Error(rsme) on Testing Data: 1215.249061788357
+2021-09-04	01:49:20		Cross Validation Score(CV) on Training Data: 0.56
+2021-09-04	01:49:20		Tuning for Linear Regression methode compleated.
+2021-09-04	01:49:20		Starting Gradient Boosting Tuning
+2021-09-04	01:49:20		Starting Tuning Gradient Boosting Model
+2021-09-04	01:49:20		Start Tuning on Randomized Search CV...
+2021-09-04	01:50:17		Tuning on Randomized Search CV Completed
+2021-09-04	01:50:17		Best Parameters for Gradient Boosting Model Obtain from Search:- 
+
+                                                learning_rate: 0.01 
+
+                                                subsample: 0.85 
+
+                                                min_samples_split: 60 
+
+                                                min_samples_leaf: 7 
+
+                                                max_depth: 4 
+
+                                                max_features: 5 
+
+                                                n_estimators: 1000
+2021-09-04	01:50:17		Starting Training on Best Parameters of Gradient Boosting Model
+2021-09-04	01:50:21		Training on Best Parameters of Gradient Boosting Model Completed
+2021-09-04	01:50:21		R2 Score on Training Data: 0.6330574496249155
+2021-09-04	01:50:21		Adjusted R2 Score on Training Data: 0.6318988361255073
+2021-09-04	01:50:21		Adjusted R2 Score on Testing Data: 0.6209935849550497
+2021-09-04	01:50:21		Evaluation Score on Testing Data: 0.5572228753583268
+2021-09-04	01:50:21		Mean Absolute Error(mae) on Testing Data: 820.3303917334646
+2021-09-04	01:50:21		Root Mean Squared Error(rsme) on Testing Data: 1173.4525141404968
+2021-09-04	01:50:34		Cross Validation Score(CV) on Training Data: 0.59
+2021-09-04	01:50:34		Tuning for Gradient Boosting methode completed.
+2021-09-04	01:50:34		Starting Random Forest Tuning
+2021-09-04	01:50:34		Starting Tuning Random Forest Model
+2021-09-04	01:50:34		Start Tuning on Randomized Search CV...
+2021-09-04	01:52:07		Tuning on Randomized Search CV Completed
+2021-09-04	01:52:07		Best Parameters for Random Forest Model Obtain from Search:- 
+
+                                                n_estimators: 600 
+
+                                                min_samples_split: 10 
+
+                                                min_samples_leaf: 4 
+
+                                                max_features: sqrt 
+
+                                                max_depth: 80 
+
+                                                bootatrap: True
+2021-09-04	01:52:07		Starting Training on Best Parameters of Random Forest Model
+2021-09-04	01:52:11		Training on Best Parameters of Random Forest Model Completed
+2021-09-04	01:52:11		R2 Score on Training Data: 0.7357442775826012
+2021-09-04	01:52:11		Adjusted R2 Score on Training Data: 0.7349098956147
+2021-09-04	01:52:11		Adjusted R2 Score on Testing Data: 0.7270564182154537
+2021-09-04	01:52:11		Evaluation Score on Testing Data: 0.5265525079493956
+2021-09-04	01:52:11		Mean Absolute Error(mae) on Testing Data: 847.9965983123496
+2021-09-04	01:52:11		Root Mean Squared Error(rsme) on Testing Data: 1213.413555000716
+2021-09-04	01:52:25		Cross Validation Score(CV) on Training Data: 0.57
+2021-09-04	01:52:25		Tuning for Random Forest methode completed.
+2021-09-04	01:52:25		Starting XGBoost Tuning
+2021-09-04	01:52:26		Start Tuning on Randomized Search CV...
+2021-09-04	01:52:43		Tuning on Randomized Search CV Completed
+2021-09-04	01:52:43		Best Parameters for XGBoost Model Obtain from Search:- 
+
+                                                 min_child_weight: 3 
+
+                                                 max_depth: 5 
+
+                                                 learning_rate: 0.05 
+
+                                                 gamma: 0.3 
+
+                                                 colsample_bytree: 0.7 
+                                
+                                                
+2021-09-04	01:52:43		Starting Training on Best Parameters of XGBoost Model
+2021-09-04	01:52:43		Training on Best Parameters of XGBoost Model Completed
+2021-09-04	01:52:43		R2 Score on Training Data: 0.6459216399169483
+2021-09-04	01:52:43		Adjusted R2 Score on Training Data: 0.6448036448318288
+2021-09-04	01:52:43		Adjusted R2 Score on Testing Data: 0.6342807075306562
+2021-09-04	01:52:43		Evaluation Score on Testing Data: 0.5485459849967905
+2021-09-04	01:52:43		Mean Absolute Error(mae) on Testing Data: 820.7538865542784
+2021-09-04	01:52:43		Root Mean Squared Error(rsme) on Testing Data: 1184.8945225020504
+2021-09-04	01:52:46		Cross Validation Score(CV) on Training Data: 0.58
+2021-09-04	01:52:46		Tuning for XGBoost methode completed.
+2021-09-04	01:52:46		Best Model: gradient_boost
+2021-09-04	01:52:46		Best Model Object Saved in File: gradient_boost

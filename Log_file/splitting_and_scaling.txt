@@ -1,0 +1,25 @@
+2021-09-04	01:49:16		Start scaling the data
+2021-09-04	01:49:16		Start splitting dataset into training and test set
+2021-09-04	01:49:16		Training and test set split completed
+2021-09-04	01:49:16		Data scaling completed
+2021-09-04	01:49:16		scaling model saved
+2021-09-04	01:49:16		Start scaling the data
+2021-09-04	01:49:16		Start splitting dataset into training and test set
+2021-09-04	01:49:16		Training and test set split completed
+2021-09-04	01:49:16		Data scaling completed
+2021-09-04	01:49:16		scaling model saved
+2021-09-04	01:49:20		Start scaling the data
+2021-09-04	01:49:20		Start splitting dataset into training and test set
+2021-09-04	01:49:20		Training and test set split completed
+2021-09-04	01:49:20		Data scaling completed
+2021-09-04	01:49:20		scaling model saved
+2021-09-04	01:50:34		Start scaling the data
+2021-09-04	01:50:34		Start splitting dataset into training and test set
+2021-09-04	01:50:34		Training and test set split completed
+2021-09-04	01:50:34		Data scaling completed
+2021-09-04	01:50:34		scaling model saved
+2021-09-04	01:52:25		Start scaling the data
+2021-09-04	01:52:25		Start splitting dataset into training and test set
+2021-09-04	01:52:25		Training and test set split completed
+2021-09-04	01:52:26		Data scaling completed
+2021-09-04	01:52:26		scaling model saved

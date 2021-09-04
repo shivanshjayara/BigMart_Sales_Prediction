@@ -1,0 +1,70 @@
+2021-09-04	01:49:13		Checking if there is any column in training data set where a column is 
+                                               having complete missing data. If present then we are dropping that columns
+2021-09-04	01:49:13		Loading training data set after removing zero standard deviation features
+2021-09-04	01:49:13		Check if standard deviation of the numericals features is zero or not.
+2021-09-04	01:49:13		Loading train dataset form the previous class method
+2021-09-04	01:49:13		Zero std columns has been removed
+2021-09-04	01:49:13		Columns having complete missing data has been removed
+2021-09-04	01:49:13		Checking if there is any column in testing data set where a column is having 
+                                                complete missing data. If present then we are dropping that columns
+2021-09-04	01:49:13		Loading testing data set after removing zero standard deviation features
+2021-09-04	01:49:13		Check if standard deviation of the numericals features is zero or not.
+2021-09-04	01:49:13		Loading test dataset form the previous class method
+2021-09-04	01:49:13		Zero std columns has been removed
+2021-09-04	01:49:13		Columns having complete missing data has been removed
+2021-09-04	01:49:13		Checking if there is any column in training data set where a column is 
+                                               having complete missing data. If present then we are dropping that columns
+2021-09-04	01:49:13		Loading training data set after removing zero standard deviation features
+2021-09-04	01:49:13		Check if standard deviation of the numericals features is zero or not.
+2021-09-04	01:49:13		Loading train dataset form the previous class method
+2021-09-04	01:49:13		Zero std columns has been removed
+2021-09-04	01:49:14		Columns having complete missing data has been removed
+2021-09-04	01:49:14		Checking if there is any column in testing data set where a column is having 
+                                                complete missing data. If present then we are dropping that columns
+2021-09-04	01:49:14		Loading testing data set after removing zero standard deviation features
+2021-09-04	01:49:14		Check if standard deviation of the numericals features is zero or not.
+2021-09-04	01:49:14		Loading test dataset form the previous class method
+2021-09-04	01:49:14		Zero std columns has been removed
+2021-09-04	01:49:14		Columns having complete missing data has been removed
+2021-09-04	01:49:14		Checking if there is any column in training data set where a column is 
+                                               having complete missing data. If present then we are dropping that columns
+2021-09-04	01:49:14		Loading training data set after removing zero standard deviation features
+2021-09-04	01:49:14		Check if standard deviation of the numericals features is zero or not.
+2021-09-04	01:49:14		Loading train dataset form the previous class method
+2021-09-04	01:49:14		Zero std columns has been removed
+2021-09-04	01:49:14		Columns having complete missing data has been removed
+2021-09-04	01:49:14		Checking if there is any column in testing data set where a column is having 
+                                                complete missing data. If present then we are dropping that columns
+2021-09-04	01:49:14		Loading testing data set after removing zero standard deviation features
+2021-09-04	01:49:14		Check if standard deviation of the numericals features is zero or not.
+2021-09-04	01:49:14		Loading test dataset form the previous class method
+2021-09-04	01:49:14		Zero std columns has been removed
+2021-09-04	01:49:14		Columns having complete missing data has been removed
+2021-09-04	01:49:14		Checking if there is any column in training data set where a column is 
+                                               having complete missing data. If present then we are dropping that columns
+2021-09-04	01:49:14		Loading training data set after removing zero standard deviation features
+2021-09-04	01:49:14		Check if standard deviation of the numericals features is zero or not.
+2021-09-04	01:49:14		Loading train dataset form the previous class method
+2021-09-04	01:49:14		Zero std columns has been removed
+2021-09-04	01:49:14		Columns having complete missing data has been removed
+2021-09-04	01:49:14		Checking if there is any column in testing data set where a column is having 
+                                                complete missing data. If present then we are dropping that columns
+2021-09-04	01:49:14		Loading testing data set after removing zero standard deviation features
+2021-09-04	01:49:14		Check if standard deviation of the numericals features is zero or not.
+2021-09-04	01:49:14		Loading test dataset form the previous class method
+2021-09-04	01:49:14		Zero std columns has been removed
+2021-09-04	01:49:14		Columns having complete missing data has been removed
+2021-09-04	01:49:15		Checking if there is any column in training data set where a column is 
+                                               having complete missing data. If present then we are dropping that columns
+2021-09-04	01:49:15		Loading training data set after removing zero standard deviation features
+2021-09-04	01:49:15		Check if standard deviation of the numericals features is zero or not.
+2021-09-04	01:49:15		Loading train dataset form the previous class method
+2021-09-04	01:49:15		Zero std columns has been removed
+2021-09-04	01:49:15		Columns having complete missing data has been removed
+2021-09-04	01:49:15		Checking if there is any column in testing data set where a column is having 
+                                                complete missing data. If present then we are dropping that columns
+2021-09-04	01:49:15		Loading testing data set after removing zero standard deviation features
+2021-09-04	01:49:15		Check if standard deviation of the numericals features is zero or not.
+2021-09-04	01:49:15		Loading test dataset form the previous class method
+2021-09-04	01:49:15		Zero std columns has been removed
+2021-09-04	01:49:15		Columns having complete missing data has been removed

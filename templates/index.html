@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BigMart Sales</title>
+    <script src="https://kit.fontawesome.com/5f3f547070.js" crossorigin="anonymous"></script>
+
+</head>
+    <style>
+
+    h1{
+    color:rgb(41, 146, 162);
+     }
+     h3{
+    color:rgb(187, 87, 79);
+     }
+     body{
+        background-repeat:no-repeat;
+        background-attach:fixed;
+        background-size:cover;
+        background-image:url({{url_for('static',filename='builtin/pic2.jpg')}})
+        }
+
+        button{
+            margin:1 25% 0 25%;
+            width: 10%;
+            background-color: rgb(234, 203, 203);
+            border:2px solid green;
+            color:rgb(32, 65, 16);
+            font-weight: 700;
+            border-radius: 500%;
+            justify-content:left;
+        }
+
+
+
+
+
+
+
+
+
+
+<!--    <style>-->
+<!--      body{-->
+
+
+<!--    text-align:center;-->
+<!--    background-image: linear-gradient(-90deg, rgb(95, 166, 156), rgb(249, 151, 149));-->
+  }
+
+<!--  h1{-->
+<!--    color:red;-->
+<!--  }-->
+
+<!--  #form{-->
+<!--    display: grid;-->
+<!--    grid-row-gap: 20px;-->
+<!--    width:26%;-->
+<!--    justify-content:center;-->
+<!--    padding: 2%;-->
+<!--    background-color: rgb(244, 231, 230);-->
+<!--    position:relative;-->
+<!--    left:35%;-->
+<!--   }-->
+<!--   input:hover{-->
+<!--     border: 2px solid blue;-->
+<!--     border-radius: 8%;-->
+<!--   }-->
+
+<!--  button{-->
+<!--    margin:0 25% 0 25%;-->
+<!--    width: 50%;-->
+<!--    background-color: yellow;-->
+<!--    border:2px solid green;-->
+<!--    color:brown;-->
+<!--    font-weight: 700;-->
+<!--    border-radius: 500%;-->
+<!--  }-->
+
+<!--  @media(max-width:756px){-->
+<!--    #form{-->
+<!--    width:60%;-->
+<!--    position:relative;-->
+<!--    left:85%;-->
+<!--    }-->
+<!--  }-->
+
+<!--  @media(max-width:362px){-->
+<!--    #form{-->
+<!--    width:80%;-->
+<!--    position:relative;-->
+<!--    left:50%;-->
+<!--    }-->
+<!--  }-->
+<!--  -->
+    </style>
+
+</head>
+
+<body>
+    <h1 id="title">BigMart Sales Prediction</h1>
+    <p id="description"></p>
+    <form id="form"  action="{{ url_for('predict') }}" method="POST" style="margin-bottom: 20px;">
+        <div>
+        <h3>Contact Me</h3>
+
+        <a target="_blank" href="https://github.com/shivanshjayara"><i class="fab fa-github fa-3x contact-icon" style="size: 20px;"></i></a>
+        <a target="_blank" href="https://www.linkedin.com/in/shivansh-jayara-54591922/"><i class="fab fa-linkedin fa-3x contact-icon"></i></a>
+        <br/>
+        <br/>
+        <br/>
+        </div>
+        <div class="form-group">
+        <label for="exampleFormControlInput1">Item Idendifier</label>
+        <input type="form-input" type="text" name="Item ID" class="form-control" id="exampleFormControlInput1" placeholder="Item ID" required="required">
+        </div>
+        <br/>
+    <div class="form-group">
+        <label for="exampleFormControlInput1">Item Weight</label>
+        <input type="form-input" type="text" name="Weight" class="form-control" id="exampleFormControlInput1" placeholder="Weight" required="required">
+    </div>
+        <br/>
+
+    <div class="form-group">
+        <label for="exampleFormControlSelect1">Item Fat Content</label>
+        <select class="form-control" id="exampleFormControlSelect1"  type="text" name="Item Fat Content">
+            <option>Low Fat</option>
+            <option>Regular</option>
+            <option>Non-Edible</option>
+        </select>
+    </div>
+        <br/>
+    <div class="form-group">
+        <label for="exampleFormControlInput1">Item Visibility</label>
+        <input type="form-input" type="text" name="Range 0.1-2.0" class="form-control" id="exampleFormControlInput1" placeholder="Range 0.1-2.0" required="required">
+    </div>
+        <br/>
+    <div class="form-group">
+        <label for="exampleFormControlInput1">Item MRP</label>
+        <input type="form-input" type="text" name="Item MRP" class="form-control" id="exampleFormControlInput1" placeholder="Item MRP" required="required">
+    </div>
+        <br/>
+    <div class="form-group">
+        <label for="exampleFormControlInput1">Outlet Identifier</label>
+        <select class="form-control" id="exampleFormControlSelect1"  type="text" name="Outlet ID">
+            <option>OUT010</option>
+            <option>OUT013</option>
+            <option>OUT017</option>
+            <option>OUT018</option>
+            <option>OUT019</option>
+            <option>OUT027</option>
+            <option>OUT035</option>
+            <option>OUT045</option>
+            <option>OUT046</option>
+            <option>OUT049</option>
+        </select>
+    </div>
+        <br/>
+    <div class="form-group">
+        <label for="exampleFormControlInput1">Outlet Establishment Year</label>
+        <input type="form-input" type="text" name="Year" class="form-control" id="exampleFormControlInput1" placeholder="Year" required="required">
+    </div>
+        <br/>
+    <div class="form-group">
+        <label for="exampleFormControlSelect1">Outlet Size</label>
+        <select class="form-control" id="exampleFormControlSelect1"  type="text" name="Size">
+            <option>Small</option>
+            <option>Medium</option>
+            <option>High</option>
+        </select>
+    </div>
+        <br/>
+    <div class="form-group">
+        <label for="exampleFormControlInput1">Outlet Location Type</label>
+        <select class="form-control" id="exampleFormControlSelect1"  type="text" name="Location Type">
+            <option>Tier 1</option>
+            <option>Tier 2</option>
+            <option>Tier 3</option>
+        </select>
+    </div>
+        <br/>
+    
+    <div class="form-group">
+        <label for="exampleFormControlSelect1">Outlet Type</label>
+        <select class="form-control" id="exampleFormControlSelect1"  type="text" name="Outlet Type">
+            <option>Supermarket Type1</option>
+            <option>Supermarket Type3</option>
+            <option>Supermarket Type2</option>
+            <option>Grocery Store</option>
+        </select>
+    </div>
+        <br/>
+    <div class="form-group">
+        <label for="exampleFormControlInput1">Item Type</label>
+        <select class="form-control" id="exampleFormControlSelect1"  type="text" name="Item Type">
+            <option>Food</option>
+            <option>Drinks</option>
+            <option>Non-consumable</option>
+        </select>
+    </div>
+        <br/>
+    <!-- <center><input type="submit" class="btn btn-success p-2" value="Predict"></center>
+          <center><input type="submit" class="btn btn-success p-2" value="Predict"></center> -->
+     <button type="submit" class="btn btn-success p-2" value="Predict">Predict</button>
+    </form>
+    </body>
+</html>

@@ -1,0 +1,48 @@
+2021-09-04	01:49:20		Calculating Adjusted r2
+2021-09-04	01:49:20		Calculated Adjusted r2: --Done
+2021-09-04	01:49:20		Calculating Adjusted r2
+2021-09-04	01:49:20		Calculated Adjusted r2: --Done
+2021-09-04	01:49:20		Calculating r2 score
+2021-09-04	01:49:20		Calculated r2 score: --Done
+2021-09-04	01:49:20		Calculating mean absolute error
+2021-09-04	01:49:20		Calculated mean absolute error: --Done
+2021-09-04	01:49:20		Calculating root mean squared error
+2021-09-04	01:49:20		Calculated root mean squared error: --Done
+2021-09-04	01:49:20		Calculating cross validation score
+2021-09-04	01:49:20		Calculated cross validation score: --Done
+2021-09-04	01:50:21		Calculating Adjusted r2
+2021-09-04	01:50:21		Calculated Adjusted r2: --Done
+2021-09-04	01:50:21		Calculating Adjusted r2
+2021-09-04	01:50:21		Calculated Adjusted r2: --Done
+2021-09-04	01:50:21		Calculating r2 score
+2021-09-04	01:50:21		Calculated r2 score: --Done
+2021-09-04	01:50:21		Calculating mean absolute error
+2021-09-04	01:50:21		Calculated mean absolute error: --Done
+2021-09-04	01:50:21		Calculating root mean squared error
+2021-09-04	01:50:21		Calculated root mean squared error: --Done
+2021-09-04	01:50:21		Calculating cross validation score
+2021-09-04	01:50:34		Calculated cross validation score: --Done
+2021-09-04	01:52:11		Calculating Adjusted r2
+2021-09-04	01:52:11		Calculated Adjusted r2: --Done
+2021-09-04	01:52:11		Calculating Adjusted r2
+2021-09-04	01:52:11		Calculated Adjusted r2: --Done
+2021-09-04	01:52:11		Calculating r2 score
+2021-09-04	01:52:11		Calculated r2 score: --Done
+2021-09-04	01:52:11		Calculating mean absolute error
+2021-09-04	01:52:11		Calculated mean absolute error: --Done
+2021-09-04	01:52:11		Calculating root mean squared error
+2021-09-04	01:52:11		Calculated root mean squared error: --Done
+2021-09-04	01:52:11		Calculating cross validation score
+2021-09-04	01:52:25		Calculated cross validation score: --Done
+2021-09-04	01:52:43		Calculating Adjusted r2
+2021-09-04	01:52:43		Calculated Adjusted r2: --Done
+2021-09-04	01:52:43		Calculating Adjusted r2
+2021-09-04	01:52:43		Calculated Adjusted r2: --Done
+2021-09-04	01:52:43		Calculating r2 score
+2021-09-04	01:52:43		Calculated r2 score: --Done
+2021-09-04	01:52:43		Calculating mean absolute error
+2021-09-04	01:52:43		Calculated mean absolute error: --Done
+2021-09-04	01:52:43		Calculating root mean squared error
+2021-09-04	01:52:43		Calculated root mean squared error: --Done
+2021-09-04	01:52:43		Calculating cross validation score
+2021-09-04	01:52:46		Calculated cross validation score: --Done

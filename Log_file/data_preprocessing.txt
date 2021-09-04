@@ -1,0 +1,27 @@
+2021-09-04	01:49:16		Creating mapping fat content- Started
+2021-09-04	01:49:16		Creating mapping fat content- Started
+2021-09-04	01:49:16		Creating new item identifier and years column: - Started
+2021-09-04	01:49:16		Start filling 0 to Item-visibility:- Started
+2021-09-04	01:49:16		Combining Traning and test data:- Started
+2021-09-04	01:49:16		Combining Traning and test data - Done
+2021-09-04	01:49:16		Filling 0 to Item-visibility - Done
+2021-09-04	01:49:16		Creating new item identifier and years column - Done
+2021-09-04	01:49:16		Creating mapping fat content- Done
+2021-09-04	01:49:16		Creating mapping fat content- Started
+2021-09-04	01:49:16		Creating mapping fat content- Started
+2021-09-04	01:49:16		Creating new item identifier and years column: - Started
+2021-09-04	01:49:16		Start filling 0 to Item-visibility:- Started
+2021-09-04	01:49:16		Combining Traning and test data:- Started
+2021-09-04	01:49:16		Combining Traning and test data - Done
+2021-09-04	01:49:16		Filling 0 to Item-visibility - Done
+2021-09-04	01:49:16		Creating new item identifier and years column - Done
+2021-09-04	01:49:16		Creating mapping fat content- Done
+2021-09-04	01:49:16		Creating mapping fat content- Started
+2021-09-04	01:49:16		Creating mapping fat content- Started
+2021-09-04	01:49:16		Creating new item identifier and years column: - Started
+2021-09-04	01:49:16		Start filling 0 to Item-visibility:- Started
+2021-09-04	01:49:16		Combining Traning and test data:- Started
+2021-09-04	01:49:16		Combining Traning and test data - Done
+2021-09-04	01:49:16		Filling 0 to Item-visibility - Done
+2021-09-04	01:49:16		Creating new item identifier and years column - Done
+2021-09-04	01:49:16		Creating mapping fat content- Done
