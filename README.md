@@ -33,7 +33,7 @@ The data-set is also based on hypotheses of store level and product level. Where
 
 #### 2) Project video:
 
-![alt-text](https://github.com/shivanshjayara/BigMart_Sales_Prediction/blob/master/Screenshots/screen.mp4)
+![](https://www.youtube.com/watch?v=RkN1oF0GLzU)
 
 
 #### 3) Home Page:
