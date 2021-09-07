@@ -15,6 +15,7 @@ anomalies and common patterns can be discovered.
 
 # Project is handled in a structured way with modular coding.
 Below is the work flow if this project
+
 ![alt-text](https://github.com/shivanshjayara/BigMart_Sales_Prediction/blob/master/Screenshots/arch.png)
 
 
@@ -26,13 +27,20 @@ The data-set is also based on hypotheses of store level and product level. Where
 # Snippets of Project
 
 #### 1) Training:
-[](https://github.com/shivanshjayara/BigMart_Sales_Prediction/blob/master/Screenshots/screen.mp4)
+
+![alt-text](https://github.com/shivanshjayara/BigMart_Sales_Prediction/blob/master/Screenshots/screen.mp4)
+
 
 #### 2) Project video:
-[](https://github.com/shivanshjayara/BigMart_Sales_Prediction/blob/master/Screenshots/screen.mp4)
+
+![alt-text](https://github.com/shivanshjayara/BigMart_Sales_Prediction/blob/master/Screenshots/screen.mp4)
+
 
 #### 3) Home Page:
-[](https://github.com/shivanshjayara/BigMart_Sales_Prediction/blob/master/Screenshots/Application_Home_Page.jpg)
+
+![alt-text](https://github.com/shivanshjayara/BigMart_Sales_Prediction/blob/master/Screenshots/Application_Home_Page.jpg)
+
 
 #### 4) Result Prediction page:
-[](https://github.com/shivanshjayara/BigMart_Sales_Prediction/blob/master/Screenshots/Prediction_Result_Page.jpg)
+
+![alt-text](https://github.com/shivanshjayara/BigMart_Sales_Prediction/blob/master/Screenshots/Prediction_Result_Page.jpg)
