@@ -15,7 +15,7 @@ anomalies and common patterns can be discovered.
 
 # Project is handled in a structured way with modular coding.
 Below is the work flow if this project
-[](https://github.com/shivanshjayara/BigMart_Sales_Prediction/blob/master/Screenshots/arch.png)
+![alt-text](https://github.com/shivanshjayara/BigMart_Sales_Prediction/blob/master/Screenshots/arch.png)
 
 
 # Dataset Description 
